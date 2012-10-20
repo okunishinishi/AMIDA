@@ -1,0 +1,4 @@
+AMIDA
+=====
+
+javascript Amida Kuji
