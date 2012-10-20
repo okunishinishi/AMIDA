@@ -1,0 +1,16 @@
+.ui-content {
+}
+
+div.nav,
+div.footer
+{
+	text-align: right;
+}
+
+div.nav a{
+	color:white;
+	text-decoration:none;
+}
+div.nav a:hover{
+	text-decoration:underline;
+}
