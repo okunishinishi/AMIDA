@@ -195,3 +195,11 @@ div.img img{
 .__ak_on_drag{
 	position:absolute;
 }
+
+#__ak_foot_container label{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
